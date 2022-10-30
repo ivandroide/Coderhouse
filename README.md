@@ -1,4 +1,5 @@
 Juego: ahorcado
+
 Detalle del funcionamiento: se selecciona aleatoriamente una palabra de un universo posible de 84 nombres de animales diferentes. Se deben ir ingresando letras hasta adivinar la palabra completa. Se permiten hasta cinco intentos fallidos. Al sexto error o al adivinar la palabra, la partida finaliza.
 Al terminar la partida, se le consulta al usuario si desea volver a jugar o no. En caso de aceptar continuar, se elige nuevamente una palabra en forma aleatoria y el juego vuelve a comenzar.
 
